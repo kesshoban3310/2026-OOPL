@@ -11,7 +11,7 @@
 洛克人是一款 2D 類型卷軸 RPG 遊戲，玩家必須要擊倒 6 隻 Boss 後進入最後一關。  
 在打每關之後會獲得不同屬性的洛克人，玩家必須要了解不同屬性在地圖上的優勢，才能發揮最大的效果。  
 
-[遊戲連結](https://www.youtube.com/watch?v=2BGA79PKaZ8)
+[遊戲示範連結](https://www.youtube.com/watch?v=2BGA79PKaZ8)
 
 # Development timeline
 
@@ -68,7 +68,12 @@
   - [ ] 製作遊戲簡報
   - [ ] 驗收並提交
 
+** 以上項目一以及項目二需修改成你們每週的進度，粗體記得刪 **
 
 # OOP 修課證明 (if you need)
 
-![111590004](111590004OOP.png)
+![111590004](OOP修課證明.png)
+
+# 長頸鹿大冒險通關證明 (you need)
+
+![ga](giraffe-adventure.jpg)
